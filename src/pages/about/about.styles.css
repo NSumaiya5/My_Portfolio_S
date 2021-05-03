@@ -1,0 +1,13 @@
+
+.about {
+  font-size: 1.1em;
+  border-bottom: 1px;
+}
+
+.profile {
+  max-width: 25em;
+}
+
+.my-details {
+  text-align: justify;
+}

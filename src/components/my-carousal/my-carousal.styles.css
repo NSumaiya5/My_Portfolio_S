@@ -1,0 +1,5 @@
+.custom-img {
+  height: 98vh;
+  object-fit: cover;
+  opacity: .7;
+}
